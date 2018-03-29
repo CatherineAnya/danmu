@@ -1,0 +1,49 @@
+#Danmu{
+    /*width: 1420px;
+    height: auto;*/
+    margin: 10px;
+    text-align: center;
+}
+#screen{
+    border: 1px mediumseagreen solid;
+    /*width: 1400px;
+    height: 500px;
+    text-align: center;*/
+}
+#mask{
+    width: 1400px;
+    height: 500px;
+}
+#show div   {
+    left: 0;
+    top: 0;
+    position: absolute;
+    font-size: 22px;
+    line-height: 36px;
+    font-weight: 500;
+    color: #fff;
+}
+#action{
+    width: 1000px;
+    height: 100px;
+    padding-top: 60px;
+}
+#txt{
+    border: 1px solid rgb(120,235,131);
+    width: 450px;
+    font-size: 110%;
+}
+#sub{
+    border: 1px solid rgb(120,235,131);
+    width: 100px;
+    font-size: 100%;
+    color: mediumseagreen;
+    text-align: center;
+}
+#clean{
+    border: 1px solid rgb(120,235,131);
+    width: 100px;
+    font-size: 100%;
+    color: mediumseagreen;
+    text-align: center;
+}
